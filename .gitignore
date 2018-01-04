@@ -21,7 +21,7 @@
 *.mtc1
 *.out
 *.synctex.gz
-*.pdf
 auto/
 *.fdb_latexmk
 *.fls
+# *.pdf
